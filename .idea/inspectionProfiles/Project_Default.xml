@@ -1,0 +1,68 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyBroadExceptionInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E722" />
+          <option value="E501" />
+          <option value="E731" />
+          <option value="E714" />
+          <option value="W605" />
+          <option value="E402" />
+          <option value="E713" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N802" />
+          <option value="N806" />
+          <option value="N803" />
+          <option value="N801" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyShadowingBuiltinsInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredNames">
+        <list>
+          <option value="str" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="core.createFirstExclusiveGroup.groupbox" />
+          <option value="PyQt5.uic.Compiler.qtproxies.QtCore.QEventLoop" />
+          <option value="PyQt5.uic.Compiler.qtproxies.QtCore.QTimer" />
+          <option value="PyQt5.uic.Compiler.qtproxies.QtGui.QImage" />
+          <option value="PyQt5.uic.Compiler.qtproxies.QtCore.pyqtSignal" />
+          <option value="list.encode" />
+          <option value="str.append" />
+          <option value="is_there_face.moveToThread" />
+          <option value="is_there_face.VideoSignal1" />
+          <option value="is_there_face.VideoSignal2" />
+          <option value="is_there_face.camera" />
+          <option value="PyQt5.QtWidgets.window.*" />
+          <option value="bluetooth.BluetoothSocket" />
+          <option value="bluetooth.RFCOMM" />
+          <option value="bluetooth.PORT_ANY" />
+          <option value="bluetooth.advertise_service" />
+          <option value="bluetooth.SERIAL_PORT_CLASS" />
+          <option value="bluetooth.SERIAL_PORT_PROFILE" />
+          <option value="str.recv" />
+          <option value="str.settimeout" />
+          <option value="str.close" />
+          <option value="pyaudio.*" />
+          <option value="test.openWindow.reject" />
+          <option value="object.setObjectName" />
+          <option value="object.resize" />
+          <option value="list.loc" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
